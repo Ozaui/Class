@@ -1,0 +1,7 @@
+C:\GitHub Project\C#\Class\Class(Again)\Class(Again)\bin\Debug\Class(Again).exe.config
+C:\GitHub Project\C#\Class\Class(Again)\Class(Again)\bin\Debug\Class(Again).exe
+C:\GitHub Project\C#\Class\Class(Again)\Class(Again)\bin\Debug\Class(Again).pdb
+C:\GitHub Project\C#\Class\Class(Again)\Class(Again)\obj\Debug\Class(Again).csproj.AssemblyReference.cache
+C:\GitHub Project\C#\Class\Class(Again)\Class(Again)\obj\Debug\Class(Again).csproj.CoreCompileInputs.cache
+C:\GitHub Project\C#\Class\Class(Again)\Class(Again)\obj\Debug\Class(Again).exe
+C:\GitHub Project\C#\Class\Class(Again)\Class(Again)\obj\Debug\Class(Again).pdb
